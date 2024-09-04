@@ -12,7 +12,7 @@ function Category() {
           <p className="category__option-opt-txt">Herramientas Web</p>
         </div>
         <div className="category__option-opt">
-          <p className="category__option-opt-txt">Librearías Javascript</p>
+          <p className="category__option-opt-txt">Librerías Javascript</p>
         </div>
         <div className="category__option-opt">
           <p className="category__option-opt-txt">Extensiones - Chrome</p>
