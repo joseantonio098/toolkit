@@ -1,12 +1,13 @@
 .App {
   display: grid;
-  grid-template-columns: 300px 1fr;
+  grid-template-columns: 260px 1fr;
   padding: 0.5rem;
   grid-gap: 0.5rem;
   height: 100vh;
 }
 
 .App__menu {
+  overflow-y: hidden;
   display: grid;
   grid-template-rows: auto 1fr;
   grid-gap: 0.5rem;

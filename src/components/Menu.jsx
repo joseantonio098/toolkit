@@ -6,7 +6,6 @@ function Menu() {
   return (
     <nav className="menu">
       <div className="menu__option">
-        <FontAwesomeIcon className="menu__option-icon" icon={faHouse} />
         <p className="menu__option-txt">TOOLTIK</p>
       </div>
     </nav>

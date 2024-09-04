@@ -6,61 +6,95 @@
 }
 
 .library::-webkit-scrollbar {
-  width: 0.8rem;
+  background-color: transparent;
 }
 
 .library::-webkit-scrollbar-thumb {
-  background: var(--scroll-color);
-  border-radius: var(--border-radius);
+  background: var(--quaternary-color);
+  border-radius: var(--border-radius-small);
 }
 
-.library__menu-search {
+.library__search-inp {
   background: var(--tertiary-color);
   color: var(--font-primary-color);
   font-size: 0.9rem;
   border: none;
-  border-radius: 15px;
+  border-radius: var(--border-radius);
+  border-bottom: var(--border-solid);
   width: 100%;
   height: 45px;
   padding: 0px 0.9rem;
 }
 
-.library__menu-search:focus {
+.library__search-inp::placeholder {
+  color: var(--font-secondary-color);
+}
+
+.library__search-inp:focus {
   outline: none;
 }
 
-.library__music {
+.library__cont {
   display: flex;
   flex-wrap: wrap;
   gap: 1.25rem;
   padding: 1.25rem 0px;
 }
 
-.library__music-cont {
+.library__cont-opt {
   background: var(--tertiary-color);
   border-radius: var(--border-radius);
-  width: 230px;
+  border: var(--border-solid);
+  width: 240px;
   padding: 1.25rem;
 }
 
-.library__music-cont:hover {
-  cursor: pointer;
+.library__cont-opt-cont {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-.library__music-cont-front {
-  border-radius: var(--border-radius);
-  width: 100%;
-  margin-bottom: 0.8rem;
+.library__cont-opt-cont-img {
+  vertical-align: top;
+  border-radius: var(--border-radius-small);
+  width: 60px;
 }
 
-.library__music-cont-name {
+.library__cont-opt-cont-name {
   color: var(--font-primary-color);
-  font-size: 1rem;
-  margin-bottom: 0.2rem;
+  font-size: 1.1rem;
+  font-weight: 500;
+  text-align: center;
+  width: 140px;
+  padding: 0px 0.3125rem;
 }
 
-.library__music-cont-singer {
+.library__cont-opt-desc {
+  overflow-y: scroll;
+  height: 70px;
+  margin: 0.9rem 0px;
+  padding-right: 0.18rem;
+}
+
+.library__cont-opt-desc-txt {
+  font-size: 0.8rem;
   color: var(--font-secondary-color);
-  font-size: 0.92rem;
-  font-weight: bold;
+}
+
+.library__cont-opt-link {
+  background: var(--primary-color);
+  text-align: center;
+  display: block;
+  border-radius: var(--border-radius-small);
+  color: var(--font-primary-color);
+  width: 100%;
+  padding: 0.625rem;
+  font-size: 0.95rem;
+  text-decoration: none;
+}
+
+.library__cont-opt-link:hover {
+  cursor: pointer;
+  background: var(--secondary-color);
 }

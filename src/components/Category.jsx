@@ -1,16 +1,31 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faLayerGroup } from "@fortawesome/free-solid-svg-icons";
 import "../assets/styles/category.css";
 
 function Category() {
   return (
     <div className="category">
+      <div className="category__title">
+        <p className="category__title-txt">CATEGORÍAS</p>
+      </div>
       <div className="category__option">
-        <FontAwesomeIcon
-          className="category__option-icon"
-          icon={faLayerGroup}
-        />
-        <p className="category__option-txt">CATEGORÍAS</p>
+        <div className="category__option-opt">
+          <p className="category__option-opt-txt">Herramientas Web</p>
+        </div>
+        <div className="category__option-opt">
+          <p className="category__option-opt-txt">Librearías Javascript</p>
+        </div>
+        <div className="category__option-opt">
+          <p className="category__option-opt-txt">Extensiones - Chrome</p>
+        </div>
+        <div className="category__option-opt">
+          <p className="category__option-opt-txt">Extensiones - VS Code</p>
+        </div>
+        <div className="category__option-opt">
+          <p className="category__option-opt-txt">Diseño Web</p>
+        </div>
+        <div className="category__option-opt">
+          <p className="category__option-opt-txt">Tecnologías Web</p>
+        </div>
       </div>
     </div>
   );
