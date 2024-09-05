@@ -1,0 +1,149 @@
+[
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/googlePageSpeed.png",
+    "name": "Google PageSpeed",
+    "description": "Es una herramienta que analiza y mejora la velocidad y el rendimiento de páginas web mediante recomendaciones para optimizar recursos, como imágenes, CSS y JavaScript, y gestionar el caché del navegador. Su objetivo es proporcionar una experiencia de usuario más rápida y eficiente.",
+    "url": "https://pagespeed.web.dev/",
+    "category": "herramienta"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/w3cMarkupValidation.png",
+    "name": "W3C Markup Validation",
+    "description": "Es una herramienta que verifica la validez del código HTML y XHTML de una página web, asegurando que cumpla con los estándares establecidos por el World Wide Web Consortium (W3C). Ayuda a detectar errores y mejorar la compatibilidad y accesibilidad de las páginas web.",
+    "url": "https://validator.w3.org/",
+    "category": "herramienta"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/canIuse.png",
+    "name": "Can I Use",
+    "description": "Es una herramienta en línea que proporciona información sobre la compatibilidad de características web (como HTML, CSS y JavaScript) en diferentes navegadores y versiones. Permite a los desarrolladores verificar el soporte de tecnologías web en diversos navegadores para asegurar que sus sitios funcionen correctamente para todos los usuarios.",
+    "url": "https://caniuse.com/",
+    "category": "herramienta"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/GTmetrix.png",
+    "name": "GTmetrix",
+    "description": "Es una herramienta en línea que analiza el rendimiento de las páginas web, proporcionando informes detallados sobre la velocidad de carga y las recomendaciones para mejorarla. Evalúa aspectos como el tiempo de carga, el tamaño de la página y el número de solicitudes, y ofrece sugerencias basadas en las mejores prácticas para optimizar el rendimiento y la experiencia del usuario.",
+    "url": "https://gtmetrix.com/",
+    "category": "herramienta"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/similarWeb.png",
+    "name": "SimilarWeb",
+    "description": "Es una herramienta de análisis de tráfico web que proporciona información sobre el rendimiento y las métricas de visitantes de sitios web. Ofrece datos sobre el tráfico de un sitio, las fuentes de tráfico, la demografía de los usuarios y las tendencias de uso. También permite comparar el desempeño de diferentes sitios web y obtener insights sobre la competencia.",
+    "url": "https://www.similarweb.com/",
+    "category": "herramienta"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/waybackMachine.png",
+    "name": "Wayback Machine",
+    "description": "Es un servicio en línea proporcionado por la Internet Archive que permite ver versiones archivadas de páginas web en diferentes momentos del pasado. Los usuarios pueden acceder a copias históricas de sitios web para ver cómo lucían y cómo funcionaban en fechas anteriores, lo que resulta útil para investigación, recuperación de información y análisis de evolución de sitios web.",
+    "url": "https://web.archive.org/",
+    "category": "herramienta"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/owlCarousel.png",
+    "name": "Owl Carousel",
+    "description": "Es una biblioteca jQuery para crear carruseles o sliders de contenido de manera fácil y personalizable. Permite a los desarrolladores añadir y gestionar presentaciones de imágenes, texto y otros elementos en forma de carrusel, con opciones de configuración para efectos de transición, velocidad, navegación y más. Es ideal para sitios web que necesitan un componente de carrusel responsivo y con múltiples funcionalidades, sin requerir una implementación compleja.",
+    "url": "https://owlcarousel2.github.io/OwlCarousel2/",
+    "category": "librería js"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/scrollReveal.png",
+    "name": "ScrollReveal",
+    "description": "es una biblioteca JavaScript que facilita la creación de efectos de animación al hacer scroll en una página web. Permite animar elementos de manera sencilla cuando entran en el viewport del navegador, proporcionando una forma fácil de agregar animaciones y efectos visuales que se activan a medida que el usuario se desplaza por la página. Es ideal para mejorar la experiencia del usuario y dar vida a las páginas web con animaciones dinámicas basadas en el desplazamiento.",
+    "url": "https://scrollrevealjs.org/",
+    "category": "librería js"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/momentjs.png",
+    "name": "Moment.js",
+    "description": "Es una biblioteca JavaScript que facilita el manejo y la manipulación de fechas y horas. Proporciona una API sencilla para realizar operaciones comunes, como el formateo de fechas, cálculos de diferencias entre fechas, y la manipulación de tiempos. Aunque ha sido ampliamente utilizada, su desarrollo ha sido descontinuado y se recomienda considerar alternativas como Day.js o date-fns para nuevos proyectos.",
+    "url": "https://momentjs.com/",
+    "category": "librería js"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/prism.png",
+    "name": "Prism.js",
+    "description": "Es una biblioteca JavaScript para resaltar sintaxis en bloques de código en páginas web. Es ligera y fácil de usar, permitiendo aplicar estilos de resaltado a diferentes lenguajes de programación de manera sencilla. Ofrece soporte para una amplia gama de lenguajes y es altamente configurable, lo que la convierte en una herramienta popular para mostrar código con una presentación clara y estilizada en sitios web y blogs.",
+    "url": "https://prismjs.com/",
+    "category": "librería js"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/chart.png",
+    "name": "Chart.js",
+    "description": "es una biblioteca JavaScript para crear gráficos interactivos y visualizaciones de datos en páginas web. Ofrece una API sencilla y flexible para generar una variedad de tipos de gráficos, como líneas, barras, pasteles y más, utilizando el elemento <canvas> de HTML5. Chart.js es conocido por su facilidad de uso, documentación clara y personalización, permitiendo a los desarrolladores integrar gráficos visualmente atractivos en sus aplicaciones web con poco esfuerzo.",
+    "url": "https://www.chartjs.org/",
+    "category": "librería js"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/popper.png",
+    "name": "Popper.js",
+    "description": "Es una biblioteca JavaScript que facilita la gestión de pop-ups, tooltips y elementos emergentes en una página web. Se encarga de posicionar y alinear estos elementos de manera precisa respecto a otros elementos del DOM, teniendo en cuenta el flujo del documento y el viewport. Ofrece una API robusta para manejar la posición, el desplazamiento y el ajuste de estos elementos emergentes, mejorando la experiencia de usuario al interactuar con componentes de interfaz que requieren una colocación específica.",
+    "url": "https://popper.js.org/",
+    "category": "librería js"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/muuri.png",
+    "name": "Muuri",
+    "description": "Es una biblioteca JavaScript para crear layouts dinámicos y adaptativos con funcionalidad de arrastrar y soltar. Permite organizar y reordenar elementos en una cuadrícula o rejilla de manera fluida, ofreciendo soporte para animaciones y una disposición flexible de los elementos. Es ideal para aplicaciones que requieren una gestión compleja del layout y una experiencia interactiva de usuario.",
+    "url": "https://muuri.dev/",
+    "category": "librería js"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/videojs.png",
+    "name": "Video.js",
+    "description": "Es una biblioteca JavaScript para la creación de reproductores de video personalizados en la web. Ofrece una interfaz fácil de usar y altamente configurable para reproducir videos en diferentes formatos y en una variedad de dispositivos. Video.js proporciona una API para personalizar la apariencia del reproductor, añadir controles adicionales y manejar eventos relacionados con la reproducción de video, lo que lo convierte en una herramienta popular para integrar y personalizar experiencias de video en aplicaciones web.",
+    "url": "https://videojs.com/",
+    "category": "librería js"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/threeJS.png",
+    "name": "Three.js",
+    "description": "Es una biblioteca JavaScript que facilita la creación y renderización de gráficos 3D en el navegador web. Utiliza WebGL para renderizar gráficos en 3D, permitiendo crear escenas complejas, objetos, luces y cámaras con una sintaxis más sencilla que la de WebGL puro. Es ampliamente utilizada para crear visualizaciones interactivas, juegos, y simulaciones en 3D en aplicaciones web.",
+    "url": "https://threejs.org/",
+    "category": "librería js"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/zdog.png",
+    "name": "Zdog",
+    "description": "Es una biblioteca JavaScript que simplifica la creación de gráficos y animaciones en 3D con un enfoque en la simplicidad y facilidad de uso. Utiliza una sintaxis sencilla para crear y animar formas 3D estilizadas, lo que permite a los desarrolladores construir visualizaciones y animaciones en 3D con menos complejidad que bibliotecas más avanzadas como Three.js. Es ideal para proyectos que requieren gráficos 3D simples y animaciones, como ilustraciones y diseños gráficos en la web.",
+    "url": "https://zzz.dog/",
+    "category": "librería js"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/colorZilla.png",
+    "name": "ColorZilla",
+    "description": "Es una extensión para navegadores web que facilita la selección, extracción y gestión de colores en páginas web. Ofrece herramientas como un cuentagotas para capturar colores directamente desde la pantalla, un selector de colores para obtener códigos en formatos estándar, y un generador de degradados CSS. Es una herramienta valiosa para diseñadores y desarrolladores que necesitan trabajar con colores en sus proyectos de manera precisa y eficiente.",
+    "url": "https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=es-419",
+    "category": "extensión chrome"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/fontsNinja.png",
+    "name": "Fonts Ninja",
+    "description": "Es una extensión para navegadores que permite identificar y analizar fuentes tipográficas en sitios web. Proporciona información detallada sobre las fuentes utilizadas, como nombre, estilo y tamaño, y ofrece recomendaciones para fuentes similares. Es útil para diseñadores y desarrolladores que desean conocer y explorar fuentes tipográficas que encuentran en la web.",
+    "url": "https://chromewebstore.google.com/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh",
+    "category": "extensión chrome"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/dimensions.png",
+    "name": "Dimensions",
+    "description": "Es una extensión para navegadores que permite medir las dimensiones exactas de los elementos en una página web. Facilita la obtención de información precisa sobre el tamaño y la posición de los elementos, ayudando a diseñadores y desarrolladores a ajustar y alinear componentes en sus proyectos con precisión.",
+    "url": "https://chromewebstore.google.com/detail/dimensions/baocaagndhipibgklemoalmkljaimfdj?hl=es",
+    "category": "extensión chrome"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/wappalyzer.png",
+    "name": "Wappalyzer",
+    "description": "Es una extensión de navegador que detecta y muestra las tecnologías utilizadas en un sitio web, incluyendo frameworks, bibliotecas, herramientas de análisis, servidores y plataformas de e-commerce. Facilita la identificación de las herramientas y tecnologías detrás de un sitio, lo que es útil para desarrolladores, analistas y profesionales interesados en conocer la infraestructura tecnológica de un sitio web.",
+    "url": "https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg?hl=es",
+    "category": "extensión chrome"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/webEditor.png",
+    "name": "Web Editor",
+    "description": "Es una aplicación o herramienta que permite a los desarrolladores y diseñadores escribir, editar y gestionar código HTML, CSS y JavaScript para crear y modificar sitios web. Ofrece características como resaltado de sintaxis, autocompletado y previsualización en vivo para facilitar el proceso de desarrollo web.",
+    "url": "https://chromewebstore.google.com/detail/web-editor/pdmlhckofhkhebmcplblcijijgjiakcm",
+    "category": "extensión chrome"
+  }
+]
