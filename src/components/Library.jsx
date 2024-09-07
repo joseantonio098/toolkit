@@ -1,16 +1,6 @@
-import { useEffect, useState } from "react";
 import "../assets/styles/library.css";
 
-function Library() {
-  const [tools, setTools] = useState([]);
-
-  useEffect(() => {
-    fetch("/toolkit/tools.json")
-      .then((response) => response.json())
-      .then((data) => setTools(data))
-      .catch((error) => console.error("Error al cargar el JSON:", error));
-  }, []);
-
+function Library({ tools }) {
   return (
     <div className="library">
       <div className="library__search">

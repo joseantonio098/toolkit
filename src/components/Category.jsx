@@ -1,31 +1,32 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import "../assets/styles/category.css";
 
-function Category() {
+function Category({ selectCategory }) {
+  const categories = [
+    "Herramientas Web",
+    "Librerías Javascript",
+    "Extensiones - Chrome",
+    "Extensiones - VS Code",
+    "Diseño Web",
+    "Tecnologías Web",
+    "Libros Pdf",
+  ];
   return (
     <div className="category">
       <div className="category__title">
         <p className="category__title-txt">CATEGORÍAS</p>
       </div>
       <div className="category__option">
-        <div className="category__option-opt">
-          <p className="category__option-opt-txt">Herramientas Web</p>
-        </div>
-        <div className="category__option-opt">
-          <p className="category__option-opt-txt">Librerías Javascript</p>
-        </div>
-        <div className="category__option-opt">
-          <p className="category__option-opt-txt">Extensiones - Chrome</p>
-        </div>
-        <div className="category__option-opt">
-          <p className="category__option-opt-txt">Extensiones - VS Code</p>
-        </div>
-        <div className="category__option-opt">
-          <p className="category__option-opt-txt">Diseño Web</p>
-        </div>
-        <div className="category__option-opt">
-          <p className="category__option-opt-txt">Tecnologías Web</p>
-        </div>
+        {categories.map((category) => (
+          <div
+            className="category__option-opt"
+            onClick={() => selectCategory(category)}
+          >
+            <p className="category__option-opt-txt" value={category}>
+              {category}
+            </p>
+          </div>
+        ))}
       </div>
     </div>
   );

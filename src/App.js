@@ -1,16 +1,35 @@
 import Menu from "./components/Menu";
 import Category from "./components/Category";
 import Library from "./components/Library";
+import { useEffect, useState } from "react";
 import "./assets/styles/app.css";
 
 function App() {
+  const [tools, setTools] = useState([]);
+  const [filteredTools, setFilteredTools] = useState([]);
+
+  useEffect(() => {
+    fetch("/toolkit/tools.json")
+      .then((response) => response.json())
+      .then((data) => {
+        setTools(data);
+        setFilteredTools(data);
+      })
+      .catch((error) => console.error("Error al cargar el JSON:", error));
+  }, []);
+
+  const handleSelectCategory = (category) => {
+    const filtered = tools.filter((tool) => tool.category === category);
+    setFilteredTools(filtered);
+  };
+
   return (
     <div className="App">
       <div className="App__menu">
         <Menu />
-        <Category />
+        <Category selectCategory={handleSelectCategory} />
       </div>
-      <Library />
+      <Library tools={filteredTools} />
     </div>
   );
 }

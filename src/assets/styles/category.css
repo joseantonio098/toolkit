@@ -38,6 +38,7 @@
 
 .category__option-opt:hover {
   cursor: pointer;
+  background: var(--primary-color);
 }
 
 .category__option-opt-txt {
