@@ -4,146 +4,258 @@
     "name": "Google PageSpeed",
     "description": "Es una herramienta que analiza y mejora la velocidad y el rendimiento de páginas web mediante recomendaciones para optimizar recursos, como imágenes, CSS y JavaScript, y gestionar el caché del navegador. Su objetivo es proporcionar una experiencia de usuario más rápida y eficiente.",
     "url": "https://pagespeed.web.dev/",
-    "category": "herramienta"
+    "category": "Herramientas Web"
   },
   {
     "img": "https://diwprog.s3.amazonaws.com/imgTools/w3cMarkupValidation.png",
     "name": "W3C Markup Validation",
     "description": "Es una herramienta que verifica la validez del código HTML y XHTML de una página web, asegurando que cumpla con los estándares establecidos por el World Wide Web Consortium (W3C). Ayuda a detectar errores y mejorar la compatibilidad y accesibilidad de las páginas web.",
     "url": "https://validator.w3.org/",
-    "category": "herramienta"
+    "category": "Herramientas Web"
   },
   {
     "img": "https://diwprog.s3.amazonaws.com/imgTools/canIuse.png",
     "name": "Can I Use",
     "description": "Es una herramienta en línea que proporciona información sobre la compatibilidad de características web (como HTML, CSS y JavaScript) en diferentes navegadores y versiones. Permite a los desarrolladores verificar el soporte de tecnologías web en diversos navegadores para asegurar que sus sitios funcionen correctamente para todos los usuarios.",
     "url": "https://caniuse.com/",
-    "category": "herramienta"
+    "category": "Herramientas Web"
   },
   {
     "img": "https://diwprog.s3.amazonaws.com/imgTools/GTmetrix.png",
     "name": "GTmetrix",
     "description": "Es una herramienta en línea que analiza el rendimiento de las páginas web, proporcionando informes detallados sobre la velocidad de carga y las recomendaciones para mejorarla. Evalúa aspectos como el tiempo de carga, el tamaño de la página y el número de solicitudes, y ofrece sugerencias basadas en las mejores prácticas para optimizar el rendimiento y la experiencia del usuario.",
     "url": "https://gtmetrix.com/",
-    "category": "herramienta"
+    "category": "Herramientas Web"
   },
   {
     "img": "https://diwprog.s3.amazonaws.com/imgTools/similarWeb.png",
     "name": "SimilarWeb",
     "description": "Es una herramienta de análisis de tráfico web que proporciona información sobre el rendimiento y las métricas de visitantes de sitios web. Ofrece datos sobre el tráfico de un sitio, las fuentes de tráfico, la demografía de los usuarios y las tendencias de uso. También permite comparar el desempeño de diferentes sitios web y obtener insights sobre la competencia.",
     "url": "https://www.similarweb.com/",
-    "category": "herramienta"
+    "category": "Herramientas Web"
   },
   {
     "img": "https://diwprog.s3.amazonaws.com/imgTools/waybackMachine.png",
     "name": "Wayback Machine",
     "description": "Es un servicio en línea proporcionado por la Internet Archive que permite ver versiones archivadas de páginas web en diferentes momentos del pasado. Los usuarios pueden acceder a copias históricas de sitios web para ver cómo lucían y cómo funcionaban en fechas anteriores, lo que resulta útil para investigación, recuperación de información y análisis de evolución de sitios web.",
     "url": "https://web.archive.org/",
-    "category": "herramienta"
+    "category": "Herramientas Web"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/googleAnalytics.png",
+    "name": "Google Analytics",
+    "description": "Es una herramienta gratuita de análisis web proporcionada por Google que permite a los propietarios de sitios web y aplicaciones rastrear y analizar el tráfico, el comportamiento de los usuarios y el rendimiento de su contenido. Proporciona información detallada sobre el número de visitantes, su ubicación, las páginas más vistas, la duración de las sesiones, las conversiones y más. Es ampliamente utilizada para tomar decisiones basadas en datos, mejorar la experiencia del usuario y optimizar estrategias de marketing digital.",
+    "url": "https://analytics.google.com/",
+    "category": "Herramientas Web"
   },
   {
     "img": "https://diwprog.s3.amazonaws.com/imgTools/owlCarousel.png",
     "name": "Owl Carousel",
     "description": "Es una biblioteca jQuery para crear carruseles o sliders de contenido de manera fácil y personalizable. Permite a los desarrolladores añadir y gestionar presentaciones de imágenes, texto y otros elementos en forma de carrusel, con opciones de configuración para efectos de transición, velocidad, navegación y más. Es ideal para sitios web que necesitan un componente de carrusel responsivo y con múltiples funcionalidades, sin requerir una implementación compleja.",
     "url": "https://owlcarousel2.github.io/OwlCarousel2/",
-    "category": "librería js"
+    "category": "Librerías Javascript"
   },
   {
     "img": "https://diwprog.s3.amazonaws.com/imgTools/scrollReveal.png",
     "name": "ScrollReveal",
     "description": "es una biblioteca JavaScript que facilita la creación de efectos de animación al hacer scroll en una página web. Permite animar elementos de manera sencilla cuando entran en el viewport del navegador, proporcionando una forma fácil de agregar animaciones y efectos visuales que se activan a medida que el usuario se desplaza por la página. Es ideal para mejorar la experiencia del usuario y dar vida a las páginas web con animaciones dinámicas basadas en el desplazamiento.",
     "url": "https://scrollrevealjs.org/",
-    "category": "librería js"
+    "category": "Librerías Javascript"
   },
   {
     "img": "https://diwprog.s3.amazonaws.com/imgTools/momentjs.png",
     "name": "Moment.js",
     "description": "Es una biblioteca JavaScript que facilita el manejo y la manipulación de fechas y horas. Proporciona una API sencilla para realizar operaciones comunes, como el formateo de fechas, cálculos de diferencias entre fechas, y la manipulación de tiempos. Aunque ha sido ampliamente utilizada, su desarrollo ha sido descontinuado y se recomienda considerar alternativas como Day.js o date-fns para nuevos proyectos.",
     "url": "https://momentjs.com/",
-    "category": "librería js"
+    "category": "Librerías Javascript"
   },
   {
     "img": "https://diwprog.s3.amazonaws.com/imgTools/prism.png",
     "name": "Prism.js",
     "description": "Es una biblioteca JavaScript para resaltar sintaxis en bloques de código en páginas web. Es ligera y fácil de usar, permitiendo aplicar estilos de resaltado a diferentes lenguajes de programación de manera sencilla. Ofrece soporte para una amplia gama de lenguajes y es altamente configurable, lo que la convierte en una herramienta popular para mostrar código con una presentación clara y estilizada en sitios web y blogs.",
     "url": "https://prismjs.com/",
-    "category": "librería js"
+    "category": "Librerías Javascript"
   },
   {
     "img": "https://diwprog.s3.amazonaws.com/imgTools/chart.png",
     "name": "Chart.js",
     "description": "es una biblioteca JavaScript para crear gráficos interactivos y visualizaciones de datos en páginas web. Ofrece una API sencilla y flexible para generar una variedad de tipos de gráficos, como líneas, barras, pasteles y más, utilizando el elemento <canvas> de HTML5. Chart.js es conocido por su facilidad de uso, documentación clara y personalización, permitiendo a los desarrolladores integrar gráficos visualmente atractivos en sus aplicaciones web con poco esfuerzo.",
     "url": "https://www.chartjs.org/",
-    "category": "librería js"
+    "category": "Librerías Javascript"
   },
   {
     "img": "https://diwprog.s3.amazonaws.com/imgTools/popper.png",
     "name": "Popper.js",
     "description": "Es una biblioteca JavaScript que facilita la gestión de pop-ups, tooltips y elementos emergentes en una página web. Se encarga de posicionar y alinear estos elementos de manera precisa respecto a otros elementos del DOM, teniendo en cuenta el flujo del documento y el viewport. Ofrece una API robusta para manejar la posición, el desplazamiento y el ajuste de estos elementos emergentes, mejorando la experiencia de usuario al interactuar con componentes de interfaz que requieren una colocación específica.",
     "url": "https://popper.js.org/",
-    "category": "librería js"
+    "category": "Librerías Javascript"
   },
   {
     "img": "https://diwprog.s3.amazonaws.com/imgTools/muuri.png",
     "name": "Muuri",
     "description": "Es una biblioteca JavaScript para crear layouts dinámicos y adaptativos con funcionalidad de arrastrar y soltar. Permite organizar y reordenar elementos en una cuadrícula o rejilla de manera fluida, ofreciendo soporte para animaciones y una disposición flexible de los elementos. Es ideal para aplicaciones que requieren una gestión compleja del layout y una experiencia interactiva de usuario.",
     "url": "https://muuri.dev/",
-    "category": "librería js"
+    "category": "Librerías Javascript"
   },
   {
     "img": "https://diwprog.s3.amazonaws.com/imgTools/videojs.png",
     "name": "Video.js",
     "description": "Es una biblioteca JavaScript para la creación de reproductores de video personalizados en la web. Ofrece una interfaz fácil de usar y altamente configurable para reproducir videos en diferentes formatos y en una variedad de dispositivos. Video.js proporciona una API para personalizar la apariencia del reproductor, añadir controles adicionales y manejar eventos relacionados con la reproducción de video, lo que lo convierte en una herramienta popular para integrar y personalizar experiencias de video en aplicaciones web.",
     "url": "https://videojs.com/",
-    "category": "librería js"
+    "category": "Librerías Javascript"
   },
   {
     "img": "https://diwprog.s3.amazonaws.com/imgTools/threeJS.png",
     "name": "Three.js",
     "description": "Es una biblioteca JavaScript que facilita la creación y renderización de gráficos 3D en el navegador web. Utiliza WebGL para renderizar gráficos en 3D, permitiendo crear escenas complejas, objetos, luces y cámaras con una sintaxis más sencilla que la de WebGL puro. Es ampliamente utilizada para crear visualizaciones interactivas, juegos, y simulaciones en 3D en aplicaciones web.",
     "url": "https://threejs.org/",
-    "category": "librería js"
+    "category": "Librerías Javascript"
   },
   {
     "img": "https://diwprog.s3.amazonaws.com/imgTools/zdog.png",
     "name": "Zdog",
     "description": "Es una biblioteca JavaScript que simplifica la creación de gráficos y animaciones en 3D con un enfoque en la simplicidad y facilidad de uso. Utiliza una sintaxis sencilla para crear y animar formas 3D estilizadas, lo que permite a los desarrolladores construir visualizaciones y animaciones en 3D con menos complejidad que bibliotecas más avanzadas como Three.js. Es ideal para proyectos que requieren gráficos 3D simples y animaciones, como ilustraciones y diseños gráficos en la web.",
     "url": "https://zzz.dog/",
-    "category": "librería js"
+    "category": "Librerías Javascript"
   },
   {
     "img": "https://diwprog.s3.amazonaws.com/imgTools/colorZilla.png",
     "name": "ColorZilla",
     "description": "Es una extensión para navegadores web que facilita la selección, extracción y gestión de colores en páginas web. Ofrece herramientas como un cuentagotas para capturar colores directamente desde la pantalla, un selector de colores para obtener códigos en formatos estándar, y un generador de degradados CSS. Es una herramienta valiosa para diseñadores y desarrolladores que necesitan trabajar con colores en sus proyectos de manera precisa y eficiente.",
     "url": "https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=es-419",
-    "category": "extensión chrome"
+    "category": "Extensiones - Chrome"
   },
   {
     "img": "https://diwprog.s3.amazonaws.com/imgTools/fontsNinja.png",
     "name": "Fonts Ninja",
     "description": "Es una extensión para navegadores que permite identificar y analizar fuentes tipográficas en sitios web. Proporciona información detallada sobre las fuentes utilizadas, como nombre, estilo y tamaño, y ofrece recomendaciones para fuentes similares. Es útil para diseñadores y desarrolladores que desean conocer y explorar fuentes tipográficas que encuentran en la web.",
     "url": "https://chromewebstore.google.com/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh",
-    "category": "extensión chrome"
+    "category": "Extensiones - Chrome"
   },
   {
     "img": "https://diwprog.s3.amazonaws.com/imgTools/dimensions.png",
     "name": "Dimensions",
     "description": "Es una extensión para navegadores que permite medir las dimensiones exactas de los elementos en una página web. Facilita la obtención de información precisa sobre el tamaño y la posición de los elementos, ayudando a diseñadores y desarrolladores a ajustar y alinear componentes en sus proyectos con precisión.",
     "url": "https://chromewebstore.google.com/detail/dimensions/baocaagndhipibgklemoalmkljaimfdj?hl=es",
-    "category": "extensión chrome"
+    "category": "Extensiones - Chrome"
   },
   {
     "img": "https://diwprog.s3.amazonaws.com/imgTools/wappalyzer.png",
     "name": "Wappalyzer",
     "description": "Es una extensión de navegador que detecta y muestra las tecnologías utilizadas en un sitio web, incluyendo frameworks, bibliotecas, herramientas de análisis, servidores y plataformas de e-commerce. Facilita la identificación de las herramientas y tecnologías detrás de un sitio, lo que es útil para desarrolladores, analistas y profesionales interesados en conocer la infraestructura tecnológica de un sitio web.",
     "url": "https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg?hl=es",
-    "category": "extensión chrome"
+    "category": "Extensiones - Chrome"
   },
   {
     "img": "https://diwprog.s3.amazonaws.com/imgTools/webEditor.png",
     "name": "Web Editor",
     "description": "Es una aplicación o herramienta que permite a los desarrolladores y diseñadores escribir, editar y gestionar código HTML, CSS y JavaScript para crear y modificar sitios web. Ofrece características como resaltado de sintaxis, autocompletado y previsualización en vivo para facilitar el proceso de desarrollo web.",
     "url": "https://chromewebstore.google.com/detail/web-editor/pdmlhckofhkhebmcplblcijijgjiakcm",
-    "category": "extensión chrome"
+    "category": "Extensiones - Chrome"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/flaticon.png",
+    "name": "Flaticon",
+    "description": "Es una plataforma en línea que ofrece una vasta colección de íconos y vectores gratuitos y premium para uso en proyectos de diseño gráfico, web, aplicaciones y más. Los íconos están disponibles en diferentes formatos (como PNG, SVG, EPS) y se pueden personalizar en términos de color y tamaño. Flaticon es popular entre diseñadores y desarrolladores por su facilidad de uso y su extensa biblioteca de recursos visuales.",
+    "url": "https://www.flaticon.com/",
+    "category": "Diseño Web"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/fontAwesome.png",
+    "name": "Font Awesome",
+    "description": "Es una biblioteca de íconos en línea que proporciona una amplia colección de íconos escalables para usar en sitios web y aplicaciones. Ofrece opciones gratuitas y de pago, y es popular por su facilidad de integración y personalización en proyectos de desarrollo web.",
+    "url": "https://fontawesome.com/",
+    "category": "Diseño Web"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/svgPorn.png",
+    "name": "Svg Porn",
+    "description": "Es un sitio web que ofrece una colección gratuita de logotipos de alta calidad en formato SVG (Scalable Vector Graphics). Está diseñado para desarrolladores y diseñadores que buscan logotipos de marcas populares para utilizar en proyectos personales o comerciales. Los logotipos son escalables sin pérdida de calidad, lo que los hace ideales para diseños responsivos.",
+    "url": "https://svgporn.com/",
+    "category": "Diseño Web"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/coolors.png",
+    "name": "Coolors",
+    "description": "Es una herramienta en línea para generar paletas de colores. Permite a diseñadores y creadores generar, ajustar y explorar combinaciones de colores de manera rápida y sencilla. Coolors ofrece diversas funciones, como la exportación de paletas en diferentes formatos, la creación de degradados, la extracción de colores de imágenes y la compatibilidad con varios modos de color. Es popular por su facilidad de uso y su capacidad para inspirar a los usuarios con combinaciones de colores armoniosas.",
+    "url": "https://coolors.co/",
+    "category": "Diseño Web"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/googleFontsIcons.png",
+    "name": "Google Fonts",
+    "description": "Es un servicio en línea de Google que proporciona una amplia colección de fuentes tipográficas de código abierto para usar en proyectos web y de diseño. Ofrece más de 1,000 familias de fuentes que se pueden explorar, descargar e integrar fácilmente en sitios web mediante un enlace o importación CSS. Google Fonts es popular por su facilidad de uso, su compatibilidad en múltiples navegadores y dispositivos, y su impacto mínimo en el rendimiento web.",
+    "url": "https://fonts.google.com/",
+    "category": "Diseño Web"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/html.png",
+    "name": "Html",
+    "description": "Es el lenguaje de marcado estándar utilizado para crear y estructurar el contenido de las páginas web. Define la estructura básica de una página web mediante el uso de etiquetas (tags) que organizan elementos como texto, imágenes, enlaces, formularios, y multimedia. HTML es fundamental para el desarrollo web, ya que permite a los navegadores interpretar y mostrar correctamente el contenido en la pantalla del usuario.",
+    "url": "https://developer.mozilla.org/es/docs/Web/HTML",
+    "category": "Tecnologías Web"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/css.png",
+    "name": "Css",
+    "description": "Es un lenguaje de estilos utilizado para describir la presentación visual de las páginas web. Permite controlar el diseño, el formato y la apariencia de elementos HTML, como colores, fuentes, márgenes, alineación, y disposición del contenido. CSS separa el contenido de la estructura, facilitando el mantenimiento y la personalización del diseño de sitios web, además de mejorar la experiencia del usuario al optimizar la velocidad de carga y la consistencia visual.",
+    "url": "https://developer.mozilla.org/es/docs/Web/CSS",
+    "category": "Tecnologías Web"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/javascript.png",
+    "name": "JavaScript",
+    "description": "Es un lenguaje de programación dinámico y multiplataforma utilizado principalmente para crear contenido interactivo y dinámico en páginas web. Permite a los desarrolladores agregar funcionalidades como animaciones, validación de formularios, interacción con APIs, manipulación del DOM (Document Object Model), y mucho más. Es uno de los pilares del desarrollo web junto a HTML y CSS, y se ejecuta directamente en el navegador del usuario, haciendo que las páginas sean más atractivas e interactivas.",
+    "url": "https://developer.mozilla.org/es/docs/Web/JavaScript",
+    "category": "Tecnologías Web"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/jquery.png",
+    "name": "JQuery",
+    "description": "Es una biblioteca de JavaScript diseñada para simplificar la manipulación del DOM, el manejo de eventos, las animaciones, y las solicitudes AJAX en sitios web. Lanzada en 2006, jQuery permite escribir menos código JavaScript para realizar tareas comunes, facilitando el desarrollo web y mejorando la compatibilidad entre navegadores. Aunque sigue siendo ampliamente utilizada, su popularidad ha disminuido con la llegada de frameworks modernos como React, Angular, y Vue.js.",
+    "url": "https://jquery.com/",
+    "category": "Tecnologías Web"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/vue.png",
+    "name": "Vue",
+    "description": "Es un framework de JavaScript progresivo y de código abierto para construir interfaces de usuario y aplicaciones web. Es conocido por su enfoque intuitivo y flexible, que permite a los desarrolladores crear componentes reutilizables y gestionar de manera eficiente el estado y la reactividad de la aplicación. Vue.js es ligero, fácil de integrar con proyectos existentes, y adecuado tanto para aplicaciones pequeñas como para proyectos grandes y complejos. Su comunidad activa y su documentación clara lo han convertido en una opción popular en el desarrollo web moderno.",
+    "url": "https://vuejs.org/",
+    "category": "Tecnologías Web"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/react.png",
+    "name": "React",
+    "description": "Es una biblioteca de JavaScript de código abierto, desarrollada por Facebook, para construir interfaces de usuario, especialmente aplicaciones web de una sola página (SPA). Utiliza un enfoque basado en componentes, lo que permite crear elementos reutilizables y gestionar eficientemente el estado y el ciclo de vida de la aplicación. React utiliza un DOM virtual para optimizar las actualizaciones y mejorar el rendimiento. Es conocido por su flexibilidad, su gran ecosistema de herramientas y librerías, y su amplia adopción en el desarrollo web moderno.",
+    "url": "https://es.react.dev/",
+    "category": "Tecnologías Web"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/angular.png",
+    "name": "Angular",
+    "description": "Es un framework de desarrollo web de código abierto basado en TypeScript, creado por Google, para construir aplicaciones web robustas y dinámicas. Ofrece una arquitectura completa y estructurada que incluye herramientas integradas para el desarrollo de aplicaciones de una sola página (SPA), como enlaces de datos bidireccionales, inyección de dependencias, enrutamiento, y manejo del estado. Angular es ideal para proyectos grandes y complejos, gracias a su fuerte tipado y a su ecosistema extenso de herramientas, bibliotecas, y prácticas recomendadas.",
+    "url": "https://angular.dev/",
+    "category": "Tecnologías Web"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/bootstrap.png",
+    "name": "Bootstrap",
+    "description": "Es un framework de front-end de código abierto diseñado para facilitar el desarrollo de sitios web y aplicaciones web responsivas y móviles. Creado por Twitter, ofrece una colección de herramientas predefinidas como componentes de interfaz de usuario (botones, formularios, menús, etc.), estilos CSS, y scripts JavaScript. Bootstrap utiliza un sistema de cuadrícula (grid system) que permite construir rápidamente diseños responsivos y adaptables a diferentes tamaños de pantalla. Es ampliamente utilizado por su facilidad de uso, consistencia, y compatibilidad entre navegadores.",
+    "url": "https://getbootstrap.com/",
+    "category": "Tecnologías Web"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/tailwind.png",
+    "name": "Tailwind",
+    "description": "es un framework de CSS de utilidad que permite a los desarrolladores crear diseños personalizados directamente en el HTML utilizando clases predefinidas. A diferencia de otros frameworks que ofrecen componentes preconstruidos, Tailwind proporciona una amplia gama de clases utilitarias para controlar el espaciado, colores, tipografía, flexbox, y más. Esto permite un mayor control y flexibilidad en el diseño, y facilita la creación de interfaces de usuario únicas sin necesidad de escribir CSS personalizado desde cero. Es conocido por su enfoque minimalista y por mejorar la eficiencia del desarrollo frontend.",
+    "url": "https://tailwindcss.com/",
+    "category": "Tecnologías Web"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/sass.png",
+    "name": "Sass",
+    "description": "Es un preprocesador de CSS que añade funcionalidades avanzadas como variables, anidamiento, mixins, herencia, y funciones, lo que facilita la escritura y mantenimiento de estilos más complejos y organizados. Sass se compila en CSS estándar para ser interpretado por los navegadores. Es ampliamente utilizado por desarrolladores para mejorar la productividad, reducir la repetición de código y hacer que los estilos sean más manejables y escalables en proyectos grandes.",
+    "url": "https://sass-lang.com/",
+    "category": "Tecnologías Web"
   }
 ]
