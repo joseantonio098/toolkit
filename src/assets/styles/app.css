@@ -16,7 +16,6 @@
 @media (max-width: 600px) {
   .App {
     grid-template-columns: auto;
-    overflow-y: scroll;
     height: 100%;
   }
 }

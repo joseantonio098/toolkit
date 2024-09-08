@@ -100,6 +100,9 @@
 }
 
 @media (max-width: 600px) {
+  .library__search-inp {
+    margin-top: 0.625rem;
+  }
   .library__cont-opt {
     width: 100%;
   }
