@@ -154,6 +154,13 @@
     "category": "Extensiones - Chrome"
   },
   {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/viewportResizer.png",
+    "name": "Viewport Resizer",
+    "description": "Es una herramienta que permite ajustar y probar cómo se ve un sitio web en diferentes tamaños de pantalla o dispositivos. Es útil para desarrolladores web y diseñadores que quieren comprobar la adaptabilidad y la capacidad de respuesta (responsive design) de sus sitios en distintas resoluciones, como móviles, tabletas, y monitores de escritorio.",
+    "url": "https://chromewebstore.google.com/detail/viewport-resizer-ultimate/kapnjjcfcncngkadhpmijlkblpibdcgm",
+    "category": "Extensiones - Chrome"
+  },
+  {
     "img": "https://diwprog.s3.amazonaws.com/imgTools/flaticon.png",
     "name": "Flaticon",
     "description": "Es una plataforma en línea que ofrece una vasta colección de íconos y vectores gratuitos y premium para uso en proyectos de diseño gráfico, web, aplicaciones y más. Los íconos están disponibles en diferentes formatos (como PNG, SVG, EPS) y se pueden personalizar en términos de color y tamaño. Flaticon es popular entre diseñadores y desarrolladores por su facilidad de uso y su extensa biblioteca de recursos visuales.",
@@ -165,6 +172,13 @@
     "name": "Font Awesome",
     "description": "Es una biblioteca de íconos en línea que proporciona una amplia colección de íconos escalables para usar en sitios web y aplicaciones. Ofrece opciones gratuitas y de pago, y es popular por su facilidad de integración y personalización en proyectos de desarrollo web.",
     "url": "https://fontawesome.com/",
+    "category": "Diseño Web"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/googleFontsIcons.png",
+    "name": "Google Icons",
+    "description": "También conocidos como Material Icons, son una colección de iconos creados por Google que siguen los principios de diseño de Material Design. Están diseñados para ser claros, simples y altamente legibles, y se utilizan en aplicaciones web y móviles para mejorar la experiencia del usuario mediante la representación visual de acciones, objetos y conceptos comunes. Los desarrolladores pueden integrar estos íconos fácilmente en sus proyectos utilizando diferentes formatos como SVG, PNG, o fuentes de iconos a través de la biblioteca de Material Icons.",
+    "url": "https://fonts.google.com/icons",
     "category": "Diseño Web"
   },
   {
@@ -182,10 +196,52 @@
     "category": "Diseño Web"
   },
   {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/mybrandnewlogo.png",
+    "name": "My Brand New Logo",
+    "description": "Es una herramienta en línea que facilita la creación de logotipos personalizados. Ofrece un enfoque sencillo y accesible para diseñar logotipos, permitiendo a los usuarios elegir entre plantillas y personalizarlas según sus necesidades. La plataforma proporciona una variedad de opciones de diseño, como iconos, fuentes y colores, para ayudar a los usuarios a crear un logotipo que represente su marca o proyecto. Ideal para emprendedores y pequeñas empresas que buscan una solución rápida y económica para su identidad visual.",
+    "url": "https://mybrandnewlogo.com/es/generador-de-paleta-de-colores",
+    "category": "Diseño Web"
+  },
+  {
     "img": "https://diwprog.s3.amazonaws.com/imgTools/googleFontsIcons.png",
     "name": "Google Fonts",
     "description": "Es un servicio en línea de Google que proporciona una amplia colección de fuentes tipográficas de código abierto para usar en proyectos web y de diseño. Ofrece más de 1,000 familias de fuentes que se pueden explorar, descargar e integrar fácilmente en sitios web mediante un enlace o importación CSS. Google Fonts es popular por su facilidad de uso, su compatibilidad en múltiples navegadores y dispositivos, y su impacto mínimo en el rendimiento web.",
     "url": "https://fonts.google.com/",
+    "category": "Diseño Web"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/pexels.png",
+    "name": "Pexels",
+    "description": "Es una plataforma que proporciona fotos y videos gratuitos de alta calidad, disponibles para uso personal y comercial. Los recursos en Pexels se pueden descargar y utilizar sin necesidad de atribución, aunque se agradece. La plataforma ofrece herramientas de búsqueda avanzada para encontrar imágenes y videos específicos, facilitando la incorporación de contenido visual atractivo en proyectos de diseño, marketing y desarrollo web.",
+    "url": "https://www.pexels.com/",
+    "category": "Diseño Web"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/foodiesfeed.png",
+    "name": "Foodiesfeed",
+    "description": "Es una plataforma que ofrece fotos gratuitas y de alta calidad centradas en alimentos y bebidas. Ideal para proyectos relacionados con gastronomía, como blogs, menús y campañas de marketing, las imágenes están disponibles para uso personal y comercial sin necesidad de atribución. La plataforma permite buscar fotos por categorías y temas específicos, facilitando la creación de contenido visualmente atractivo.",
+    "url": "https://www.foodiesfeed.com/",
+    "category": "Diseño Web"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/unsplash.png",
+    "name": "Unsplash",
+    "description": "Es una plataforma que ofrece una amplia colección de fotos gratuitas de alta calidad. Las imágenes están disponibles para uso personal y comercial sin necesidad de atribución, aunque se recomienda dar crédito al autor. Unsplash facilita la búsqueda de fotos a través de categorías y palabras clave, permitiendo a los usuarios encontrar imágenes visualmente atractivas para una variedad de proyectos, desde diseño gráfico hasta marketing y contenido web.",
+    "url": "https://unsplash.com/",
+    "category": "Diseño Web"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/videezy.png",
+    "name": "Videezy",
+    "description": "Es una plataforma que ofrece una colección de videos gratuitos y de alta calidad para uso personal y comercial. Los usuarios pueden buscar y descargar clips en diversas categorías, como naturaleza, negocios, tecnología, y mucho más. Videezy también ofrece contenido en formato HD y 4K, lo que lo hace útil para proyectos de video, presentaciones y marketing. Aunque muchos de los recursos son gratuitos, algunos pueden requerir atribución o estar disponibles bajo licencias específicas.",
+    "url": "https://www.videezy.com/",
+    "category": "Diseño Web"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/freesound.png",
+    "name": "Freesound",
+    "description": "Es una plataforma en línea que ofrece una vasta colección de sonidos gratuitos y efectos de audio compartidos por usuarios de todo el mundo. Permite a los usuarios buscar, descargar y compartir sonidos bajo licencias Creative Commons, lo que facilita su uso en proyectos creativos como música, cine, juegos y otros medios. Además, cuenta con una comunidad activa que colabora en la etiquetación y descripción de los sonidos para mejorar su accesibilidad y uso.",
+    "url": "https://freesound.org/",
     "category": "Diseño Web"
   },
   {
@@ -257,5 +313,40 @@
     "description": "Es un preprocesador de CSS que añade funcionalidades avanzadas como variables, anidamiento, mixins, herencia, y funciones, lo que facilita la escritura y mantenimiento de estilos más complejos y organizados. Sass se compila en CSS estándar para ser interpretado por los navegadores. Es ampliamente utilizado por desarrolladores para mejorar la productividad, reducir la repetición de código y hacer que los estilos sean más manejables y escalables en proyectos grandes.",
     "url": "https://sass-lang.com/",
     "category": "Tecnologías Web"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/librosPDF.png",
+    "name": "Manual de JavaScript",
+    "description": "El Manual de JavaScript de Rives Alba es una guía práctica y completa para aprender JavaScript, cubriendo desde los conceptos básicos hasta temas avanzados. Diseñado para principiantes y programadores con experiencia, el manual incluye ejemplos, ejercicios y explicaciones detalladas para dominar el lenguaje y aplicarlo en el desarrollo web.",
+    "url": "https://diwprog.s3.amazonaws.com/imgTools/Manual-de-javascript-Rives-Alba.pdf",
+    "category": "Libros Pdf"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/librosPDF.png",
+    "name": "Introducción a CSS",
+    "description": "Introducción a CSS de Javier Eguíluz es un libro que proporciona una guía accesible para aprender CSS (Cascading Style Sheets). El libro cubre los fundamentos del diseño web, incluyendo la sintaxis de CSS, cómo aplicar estilos a elementos HTML, el uso de selectores, propiedades y valores, y técnicas avanzadas como el diseño responsivo. Es adecuado para principiantes que desean entender cómo dar estilo y formatear páginas web, con explicaciones claras y ejemplos prácticos para desarrollar habilidades en diseño web y maquetación.",
+    "url": "https://diwprog.s3.amazonaws.com/imgTools/Introducci%C3%B3n-a-css-Javier-Egu%C3%ADluz.pdf",
+    "category": "Libros Pdf"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/librosPDF.png",
+    "name": "Curso Práctico HTML5",
+    "description": "Curso Práctico HTML5 es una guía que enseña HTML5, el lenguaje fundamental para la creación de páginas web. El curso cubre los aspectos esenciales de HTML5, incluyendo las nuevas características y etiquetas que mejoran la estructuración y semántica de las páginas web, como elementos multimedia, formularios mejorados y APIs avanzadas. Está diseñado para proporcionar una comprensión práctica del lenguaje, con ejemplos y ejercicios que facilitan la creación de sitios web modernos y accesibles. Ideal para quienes buscan aprender HTML5 de manera efectiva y aplicable a proyectos reales.",
+    "url": "https://diwprog.s3.amazonaws.com/imgTools/Curso-Pr%C3%A1ctico-Html5-Luc%C3%ADa-Castillo.pdf",
+    "category": "Libros Pdf"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/librosPDF.png",
+    "name": "Pro Git",
+    "description": "Pro Git es un libro exhaustivo sobre Git, el sistema de control de versiones distribuido. Escrito por Scott Chacon y Ben Straub, el libro cubre desde los fundamentos básicos del uso de Git hasta técnicas avanzadas y flujos de trabajo complejos. Incluye temas como la configuración del entorno, el manejo de ramas, la fusión de cambios, el trabajo con repositorios remotos, y la resolución de conflictos. Es ideal tanto para principiantes que desean aprender a usar Git como para desarrolladores experimentados que buscan profundizar su conocimiento y mejorar su flujo de trabajo con Git.",
+    "url": "https://diwprog.s3.amazonaws.com/imgTools/Pro-Git-Scott-Ben.pdf",
+    "category": "Libros Pdf"
+  },
+  {
+    "img": "https://diwprog.s3.amazonaws.com/imgTools/librosPDF.png",
+    "name": "El gran libro de HTML5, CSS3 y JavaScript",
+    "description": "El Gran Libro de HTML5, CSS3 y JavaScript es una guía completa que enseña las tecnologías clave para el desarrollo web moderno. Cubre HTML5 para estructurar el contenido, CSS3 para el diseño y estilización, y JavaScript para la interactividad y dinamismo. Ideal para aprender desde lo básico hasta técnicas avanzadas, el libro proporciona ejemplos prácticos y ejercicios para aplicar los conocimientos en proyectos web reales.",
+    "url": "https://diwprog.s3.amazonaws.com/imgTools/El-gran-libro-de-html5-css3-js-Gauchat.pdf",
+    "category": "Libros Pdf"
   }
 ]
