@@ -39,9 +39,15 @@
 .category__option-opt:hover {
   cursor: pointer;
   background: var(--primary-color);
+  border: 1px solid var(--primary-color);
 }
 
 .category__option-opt-txt {
   color: var(--font-primary-color);
   font-size: 0.95rem;
+}
+
+.category__selected {
+  background: var(--primary-color);
+  border: 1px solid var(--primary-color);
 }

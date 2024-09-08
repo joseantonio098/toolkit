@@ -7,13 +7,16 @@ import "./assets/styles/app.css";
 function App() {
   const [tools, setTools] = useState([]);
   const [filteredTools, setFilteredTools] = useState([]);
+  const defaultCategory = "Herramientas Web";
 
   useEffect(() => {
     fetch("/toolkit/tools.json")
       .then((response) => response.json())
       .then((data) => {
         setTools(data);
-        setFilteredTools(data);
+        setFilteredTools(
+          data.filter((tool) => tool.category === defaultCategory)
+        );
       })
       .catch((error) => console.error("Error al cargar el JSON:", error));
   }, []);
@@ -27,7 +30,10 @@ function App() {
     <div className="App">
       <div className="App__menu">
         <Menu />
-        <Category selectCategory={handleSelectCategory} />
+        <Category
+          selectCategory={handleSelectCategory}
+          defaultCategory={defaultCategory}
+        />
       </div>
       <Library tools={filteredTools} />
     </div>

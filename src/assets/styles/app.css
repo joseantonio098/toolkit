@@ -12,3 +12,11 @@
   grid-template-rows: auto 1fr;
   grid-gap: 0.5rem;
 }
+
+@media (max-width: 600px) {
+  .App {
+    grid-template-columns: auto;
+    overflow-y: scroll;
+    height: 100%;
+  }
+}

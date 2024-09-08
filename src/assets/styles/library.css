@@ -98,3 +98,9 @@
   cursor: pointer;
   background: var(--secondary-color);
 }
+
+@media (max-width: 600px) {
+  .library__cont-opt {
+    width: 100%;
+  }
+}
